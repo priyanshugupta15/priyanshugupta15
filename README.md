@@ -13,9 +13,10 @@
 <p align="left">‣ I am a Second-Year B.Tech CSE Student at SRM University AP<br>‣ Strong foundation in DSA, OOPs, DBMS, and Web Development<br>‣ Hand on experience  with MERN Stack<br>‣ Strong Interest in AI/ML and Data Science</p>
 
 ###
+<br>
+
 
 <h2 align="left">Connect with me</h2>
-
 <div align="left">
 
 <a href="mailto:priyanshugupta1506@gmail.com" target="_blank">
@@ -39,6 +40,7 @@
 </a>
 
 </div>
+<br>
 
 <h2 align="left">Tech Stack</h2>
 
@@ -84,11 +86,11 @@
 
 ###
 
-<h4 align="left">📄 InvoiceIQ </h4><br><br><h5 align="left">💡 AI-powered SaaS app that converts plain text into structured invoices. <br> <br> 📊 Includes automated reminders and financial analytics dashboard.<br><br>   Tech: React, JavaScript, Tailwind CSS, MongoDB Atlas, Google Gemini API</h5>
+<h3 align="left">📄 InvoiceIQ </h3><p align="left">💡 AI-powered SaaS app that converts plain text into structured invoices. <br> <br> 📊 Includes automated reminders and financial analytics dashboard.<br><br>   Tech: React, JavaScript, Tailwind CSS, MongoDB Atlas, Google Gemini API</p>
 
 ###
 
-<h4 align="left">🩸 Blood Bank Management System</h4><br><br><h5 align="left">🏥 Centralized platform for managing donors, hospital requests, and blood inventory.  <br><br>⚡ Provides real-time tracking with secure authentication.<br><br>   Tech: MERN Stack (MongoDB, Express, React, Node.js), JWT</h5>
+<h3 align="left">🩸 Blood Bank Management System</h3><p align="left">🏥 Centralized platform for managing donors, hospital requests, and blood inventory.  <br><br>⚡ Provides real-time tracking with secure authentication.<br><br>   Tech: MERN Stack (MongoDB, Express, React, Node.js), JWT<p5>
 
 ###
 
